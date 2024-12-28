@@ -8,4 +8,4 @@ Examined the Phillips Curve and Okun’s Law using linear regression models in s
 
 Analyzed over 250 variables, uncovering macroeconomic relationships and providing insights into inflation-unemployment trade-offs and the link between unemployment and GDP growth in both countries.
 
-Data Collected through FED API.
+Data Collected through FRED API.
